@@ -67,11 +67,5 @@ The project focuses on detecting anomalous behavior in compressor operational me
 - **Visualization**: Pair plots highlighted anomalies in red, showing relationships between features.
 - **Insights**: Anomalies corresponded to unusual compressor behaviors, with timestamps aiding further investigation.
 
-## Future Work
-- Investigate anomaly timestamps to identify root causes.
-- Explore other clustering algorithms (e.g., DBSCAN) for comparison.
-- Integrate real-time data for continuous monitoring.
+![1stNRL Image 19](https://github.com/user-attachments/assets/3a7c32ec-1651-4160-9165-fda6375baf6a)
 
-## License
-MIT License
-```
